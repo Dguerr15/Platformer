@@ -1,5 +1,5 @@
 {
-    "activeFile": "PlatformerMap.tmj",
+    "activeFile": "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -13,6 +13,23 @@
             "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
+        "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.132523148148148,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 416.3270311701585,
+                "y": 248.5600408788963
+            }
+        },
+        "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
         "C:/Users/maria/OneDrive/Desktop/CMPM120/StarterPlatformer/assets/Platformer-level-1.json": {
             "scale": 0.75,
             "selectedLayer": 0,
@@ -25,31 +42,39 @@
             "scaleInDock": 1.5
         },
         "PlatformerMap.tmj": {
-            "scale": 0.5,
+            "expandedObjectLayers": [
+                4,
+                7
+            ],
+            "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1083,
-                "y": 381
+                "x": 1717.5,
+                "y": 511.5
             }
         },
         "PlatformerMap.tmj#kenny_tilemap_packed": {
-            "scaleInDock": 1
+            "scaleInDock": 1.5
         },
         "kenny-tilemap-packed.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
-    "last.exportedFilePath": "C:/Users/maria/OneDrive/Desktop/CMPM120/Platformer/assets",
+    "frame.defaultDuration": 200,
+    "last.exportedFilePath": "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets",
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "openFiles": [
-        "PlatformerMap.tmj"
+        "PlatformerMap.tmj",
+        "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx"
     ],
     "project": "ActualMap.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "PlatformerMap.tmj",
+        "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
         "C:/Users/maria/OneDrive/Desktop/CMPM120/StarterPlatformer/assets/Platformer-level-1.json",
         "kenny-tilemap-packed.tsx"
-    ]
+    ],
+    "resizeMap.removeObjects": true
 }
