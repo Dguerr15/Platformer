@@ -1,10 +1,9 @@
-class Win extends Phaser.Scene {
+class GameOver extends Phaser.Scene {
     constructor(){
-        super("Win");
+        super("GameOver");
     }
     create(){
-        const coins = this.scene.settings.data.coins;
-        this.add.text(130, 350, 'Win you got ' + coins + ' coins',{ 
+        this.add.text(130, 350, 'GameOver',{ 
             fontFamily: 'Times, serif',
             fontSize: 42,
             color: "#F00000"

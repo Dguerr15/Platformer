@@ -68,7 +68,7 @@ class Platformer extends Phaser.Scene {
         this.groundLayer.setCollisionByProperty({
             collides: true
         });
-       
+       this.init();
         //this.animatedTiles.init(this.map);
 
         // set up player avatar
@@ -90,7 +90,7 @@ class Platformer extends Phaser.Scene {
         this.physics.add.overlap(my.sprite.player, this.flagGroup, (obj1, obj2) => {
             this.collectSound.play();
             console.log("win");
-            this.scene.start("Win")
+            this.scene.start("Win", {coins: this.coins})
         });
 
         this.physics.add.overlap(my.sprite.player, this.spikeGroup, (obj1, obj2) => {

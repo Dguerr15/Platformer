@@ -1,5 +1,5 @@
 {
-    "activeFile": "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
+    "activeFile": "PlatformerMap.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -43,14 +43,15 @@
         },
         "PlatformerMap.tmj": {
             "expandedObjectLayers": [
+                8,
                 4,
                 7
             ],
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 5.5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1717.5,
-                "y": 511.5
+                "x": 2047.181818181818,
+                "y": 349.54545454545456
             }
         },
         "PlatformerMap.tmj#kenny_tilemap_packed": {
@@ -71,8 +72,8 @@
     "project": "ActualMap.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "PlatformerMap.tmj",
         "C:/Users/maria/OneDrive/Desktop/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "PlatformerMap.tmj",
         "C:/Users/maria/OneDrive/Desktop/CMPM120/StarterPlatformer/assets/Platformer-level-1.json",
         "kenny-tilemap-packed.tsx"
     ],

@@ -8,7 +8,7 @@ class Title extends Phaser.Scene {
             fontSize: 42,
             color: "#F00000"
         });
-        this.add.text(330, 650, 'arrow keys to move, r to restart',{ 
+        this.add.text(330, 550, 'arrow keys to move, r to restart',{ 
             fontFamily: 'Times, serif',
             fontSize: 42,
             color: "#F00000"
